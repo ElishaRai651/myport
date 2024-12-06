@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins',sans-serif;
+}
+h2{
+    text-align: center;
+position: relative;
+font-size: 30px;
+color: darkblue;
+}
+.all{
+    text-align: center;
+    position: relative;
+    background-color: aliceblue;
+    font-size: 15px;
+ 
+
+}
